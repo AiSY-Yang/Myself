@@ -1,6 +1,4 @@
-<head>
-    <title>导航</title>
-</head>
+#导航
 
 [爱哈影视 无弹幕 手机可全屏](./2ha.html)
 
