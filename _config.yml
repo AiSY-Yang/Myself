@@ -1,12 +1,10 @@
 # In _config.yml
-...
 defaults:
   -
     scope:
-      path: "projects"
+      path: ""
       type: "pages"
     values:
-      layout: "project"
-      author: "Mr. Hyde"
-      category: "project"
-...
+      layout: "default"
+      author: "AiSY-Yang"
+      category: "Page"
